@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-streaming-flume_2.10:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/org/apache/spark/spark-streaming-flume_2.10/1.0-SNAPSHOT/spark-streaming-flume_2.10-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/org/apache/spark/spark-streaming-flume_2.10/1.0-SNAPSHOT/spark-streaming-flume_2.10-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/org/apache/spark/spark-streaming-flume_2.10/1.0-SNAPSHOT/spark-streaming-flume_2.10-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
